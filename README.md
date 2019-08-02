@@ -77,6 +77,6 @@ Matches all preceding concepts after the first preceding punctuation.
 
 Applies for each cue separately the most effective of the four baseline models.
 
-##### Fine-tuned ybrid model
+##### Fine-tuned hybrid model
 
 Replaces the fine-tuned baseline model for every cue it can outperform with a rule selected from simple rules on the Frog dependency parse.
